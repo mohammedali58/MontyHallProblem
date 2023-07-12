@@ -65,7 +65,6 @@ public static class Program
 
         do
         {
-           // Console.Write("Do you want to switch doors? (y/n): ");
             userInput = Console.ReadLine().ToLower();
 
             if (userInput == "y" || userInput == "n")
