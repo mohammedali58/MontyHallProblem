@@ -10,3 +10,15 @@
 /Users/mohammedali/Downloads/Qliro/MontyHallProblem/MontyHallProblem/obj/Debug/net7.0/refint/MontyHallProblem.dll
 /Users/mohammedali/Downloads/Qliro/MontyHallProblem/MontyHallProblem/obj/Debug/net7.0/MontyHallProblem.pdb
 /Users/mohammedali/Downloads/Qliro/MontyHallProblem/MontyHallProblem/obj/Debug/net7.0/ref/MontyHallProblem.dll
+/Users/mohammedali/Downloads/Qliro/GithubRepoo/MontyHallProblem/MontyHallProblem/bin/Debug/net7.0/MontyHallProblem.deps.json
+/Users/mohammedali/Downloads/Qliro/GithubRepoo/MontyHallProblem/MontyHallProblem/bin/Debug/net7.0/MontyHallProblem.dll
+/Users/mohammedali/Downloads/Qliro/GithubRepoo/MontyHallProblem/MontyHallProblem/bin/Debug/net7.0/MontyHallProblem.pdb
+/Users/mohammedali/Downloads/Qliro/GithubRepoo/MontyHallProblem/MontyHallProblem/obj/Debug/net7.0/MontyHallProblem.csproj.AssemblyReference.cache
+/Users/mohammedali/Downloads/Qliro/GithubRepoo/MontyHallProblem/MontyHallProblem/obj/Debug/net7.0/MontyHallProblem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammedali/Downloads/Qliro/GithubRepoo/MontyHallProblem/MontyHallProblem/obj/Debug/net7.0/MontyHallProblem.AssemblyInfoInputs.cache
+/Users/mohammedali/Downloads/Qliro/GithubRepoo/MontyHallProblem/MontyHallProblem/obj/Debug/net7.0/MontyHallProblem.AssemblyInfo.cs
+/Users/mohammedali/Downloads/Qliro/GithubRepoo/MontyHallProblem/MontyHallProblem/obj/Debug/net7.0/MontyHallProblem.csproj.CoreCompileInputs.cache
+/Users/mohammedali/Downloads/Qliro/GithubRepoo/MontyHallProblem/MontyHallProblem/obj/Debug/net7.0/MontyHallProblem.dll
+/Users/mohammedali/Downloads/Qliro/GithubRepoo/MontyHallProblem/MontyHallProblem/obj/Debug/net7.0/refint/MontyHallProblem.dll
+/Users/mohammedali/Downloads/Qliro/GithubRepoo/MontyHallProblem/MontyHallProblem/obj/Debug/net7.0/MontyHallProblem.pdb
+/Users/mohammedali/Downloads/Qliro/GithubRepoo/MontyHallProblem/MontyHallProblem/obj/Debug/net7.0/ref/MontyHallProblem.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mohammedali/Downloads/Qliro/GithubRepo/MontyHallProblem/MontyHallProblem/MontyHallProblem.csproj": {}
+    "/Users/mohammedali/Downloads/Qliro/GithubRepoo/MontyHallProblem/MontyHallProblem/MontyHallProblem.csproj": {}
   },
   "projects": {
-    "/Users/mohammedali/Downloads/Qliro/GithubRepo/MontyHallProblem/MontyHallProblem/MontyHallProblem.csproj": {
+    "/Users/mohammedali/Downloads/Qliro/GithubRepoo/MontyHallProblem/MontyHallProblem/MontyHallProblem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mohammedali/Downloads/Qliro/GithubRepo/MontyHallProblem/MontyHallProblem/MontyHallProblem.csproj",
+        "projectUniqueName": "/Users/mohammedali/Downloads/Qliro/GithubRepoo/MontyHallProblem/MontyHallProblem/MontyHallProblem.csproj",
         "projectName": "MontyHallProblem",
-        "projectPath": "/Users/mohammedali/Downloads/Qliro/GithubRepo/MontyHallProblem/MontyHallProblem/MontyHallProblem.csproj",
+        "projectPath": "/Users/mohammedali/Downloads/Qliro/GithubRepoo/MontyHallProblem/MontyHallProblem/MontyHallProblem.csproj",
         "packagesPath": "/Users/mohammedali/.nuget/packages/",
-        "outputPath": "/Users/mohammedali/Downloads/Qliro/GithubRepo/MontyHallProblem/MontyHallProblem/obj/",
+        "outputPath": "/Users/mohammedali/Downloads/Qliro/GithubRepoo/MontyHallProblem/MontyHallProblem/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mohammedali/.nuget/NuGet/NuGet.Config"
