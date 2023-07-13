@@ -8,9 +8,9 @@ namespace MontyHallProblem.Tests;
 public class MontyHallProblemTests
 {
     [Theory]
-    [InlineData(20000)]
-    [InlineData(300000)]
-    [InlineData(400000)]
+    
+    [InlineData(100000)]
+    [InlineData(1000000)]
     public void ChangeDoorWinRateResult(int numberOfGames)
     {
         // Arrange
@@ -25,9 +25,8 @@ public class MontyHallProblemTests
     }
 
     [Theory]
-    [InlineData(20000)]
-    [InlineData(300000)]
-    [InlineData(400000)]
+    [InlineData(100000)]
+    [InlineData(1000000)]
     public void ChangeDoorWinRatePercentage(int numberOfGames)
     {
         // Arrange
@@ -42,9 +41,8 @@ public class MontyHallProblemTests
     }
 
     [Theory]
-    [InlineData(20000)]
-    [InlineData(300000)]
-    [InlineData(400000)]
+    [InlineData(100000)]
+    [InlineData(1000000)]
     public void DoNotChangeDoorResult(int numberOfGames)
     {
         // Arrange
@@ -59,9 +57,8 @@ public class MontyHallProblemTests
     }
 
     [Theory]
-    [InlineData(20000)]
-    [InlineData(300000)]
-    [InlineData(400000)]
+    [InlineData(100000)]
+    [InlineData(1000000)]
     public void DoNotChangeDoorWinPercentage(int numberOfGames)
     {
         // Arrange
